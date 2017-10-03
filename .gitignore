@@ -9,7 +9,6 @@
 /.envrc
 eslint-report.html
 /.gitlab_shell_secret
-.idea
 /.rbenv-version
 .rbx/
 /.ruby-gemset
