@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'therubyracer'
+
 gem 'rails', '4.2.8'
 gem 'rails-deprecated_sanitizer', '~> 1.0.3'
 
